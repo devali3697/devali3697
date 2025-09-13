@@ -1,26 +1,85 @@
-<h1 align="center">Hi 👋, I'm Ali Hassan</h1>
-<h3 align="center">A passionate flutter developer from Pakistan</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devali3697&label=Profile%20views&color=0e75b6&style=flat" alt="devali3697" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devali3697" alt="devali3697" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://www.upwork.com/freelancers/~018487c7c3f6c29f13?mp_source=share](https://www.upwork.com/freelancers/~018487c7c3f6c29f13?mp_source=share)
-
-- 💬 Ask me about **Flutter,Java,Firebase,App&Web development**
-
-- 📫 How to reach me **devalihassan01@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ali-hassan-006aa2234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ali-hassan-006aa2234" height="30" width="40" /></a>
+<!-- Profile Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ali+Hassan;Flutter+%7C+Firebase+%7C+Android+%7C+Web+Developer;Building+clean%2C+scalable+apps" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/devali3697">
+    <img src="https://komarev.com/ghpvc/?username=devali3697&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~018487c7c3f6c29f13?mp_source=share">
+    <img src="https://img.shields.io/badge/Upwork-Portfolio-14a800?logo=upwork&logoColor=white" />
+  </a>
+  <a href="mailto:devalihassan01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-devalihassan01%40gmail.com-D14836?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ali-hassan-006aa2234">
+    <img src="https://img.shields.io/badge/LinkedIn-ali--hassan--006aa2234-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devali3697&show_icons=true&locale=en&layout=compact" alt="devali3697" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devali3697&show_icons=true&locale=en" alt="devali3697" /></p>
+### 👨‍💻 About Me
+- Flutter developer from Pakistan focused on **clean architecture**, **scalable Firebase backends**, and **pixel-perfect UI**  
+- I build **Android**, **iOS**, and **Web** apps with strong attention to performance and UX  
+- Ask me about **Flutter, Dart, Firebase, Android (Java/Kotlin), REST APIs, Cloud Functions**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devali3697&" alt="devali3697" /></p>
+📂 **All projects & live work:**  
+**Upwork Portfolio:** https://www.upwork.com/freelancers/~018487c7c3f6c29f13?mp_source=share
+
+---
+
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" />
+</p>
+
+- State management: **Provider / GetX / Riverpod**  
+- Storage & backend: **Realtime Database, Firestore, Storage, Cloud Functions**  
+- Other: **REST/JSON, Push Notifications (FCM), Auth, Clean Architecture, CI/CD**
+
+---
+
+### 🚀 Featured Highlights
+- 🔹 **Multi-branch Food & E-commerce (Flutter + Firebase RTDB)** — dynamic menus, roles, admin panel, push notifications  
+- 🔹 **Mining/Rewards App** — real-time timers, boosts via rewarded ads, referral tree, secure backend logic  
+- 🔹 **Job Finder + Employer Portal** — resume upload, admin dashboards, category search, analytics
+
+> Want a quick walkthrough or code sample? Ping me at **devalihassan01@gmail.com**.
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=devali3697&show_icons=true&theme=default&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devali3697&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=devali3697&hide_border=true" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=devali3697&margin-w=8&no-frame=true&theme=flat" />
+  </a>
+</p>
+
+---
+
+### 🤝 Connect
+- **Email:** <a href="mailto:devalihassan01@gmail.com">devalihassan01@gmail.com</a>  
+- **LinkedIn:** <a href="https://www.linkedin.com/in/ali-hassan-006aa2234">ali-hassan-006aa2234</a>  
+- **Upwork:** <a href="https://www.upwork.com/freelancers/~018487c7c3f6c29f13?mp_source=share">Profile</a>
+
+<!-- Optional: Activity Graph (uncomment if you like) -->
+<!--
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devali3697&hide_border=true" />
+</p>
+-->
