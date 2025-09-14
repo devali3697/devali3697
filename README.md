@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/ali-hassan-006aa2234">
     <img src="https://img.shields.io/badge/LinkedIn-ali--hassan--006aa2234-0A66C2?logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.upwork.com/freelancers/~018487c7c3f6c29f13?mp_source=share">
+  <a href="https://www.upwork.com/freelancers/alihassanriaz?mp_source=share">
     <img src="https://img.shields.io/badge/Upwork-Portfolio-14a800?logo=upwork&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Open%20for%20Work-✔-brightgreen" />
