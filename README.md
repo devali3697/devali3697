@@ -1,6 +1,6 @@
 <!-- ====== PROFILE HEADER ====== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2800&center=true&vCenter=true&width=740&lines=Hi%2C+I'm+Ali+Hassan;Flutter+%26+Firebase+Developer;Android+%7C+iOS+%7C+Web+Engineer;I+build+clean%2C+scalable%2C+production-ready+apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2800&center=true&vCenter=true&width=740&lines=Hi%2C+I'm+Ali+Hassan;Flutter+%26+Firebase+Specialist;Android+%7C+iOS+%7C+Web+Engineer;Building+Clean%2C+Scalable+%26+Production-Ready+Apps" />
 </p>
 
 <p align="center">
@@ -24,21 +24,21 @@
 ---
 
 ### 👨‍💻 About Me
-I help startups & teams turn ideas into **production-ready mobile & web apps**.  
-With **clean architecture**, **scalable Firebase backends**, and **pixel-perfect UI**, I ship apps that are **fast, secure, and delightful**.
+I turn ideas into **production-grade mobile & web apps** for startups and growing teams.  
+With **Flutter + Firebase** as my core stack, I build apps that are **secure, scalable, and loved by users**.
 
-- 📍 Pakistan • 🛠 Flutter, Firebase, Android (Java/Kotlin), Cloud Functions  
-- 💬 Ask me about: **State management, RTDB/Firestore design, FCM/Push, CI/CD, REST APIs**  
-- 📂 **Full portfolio & live work:**  
-  **Upwork:** https://www.upwork.com/freelancers/~018487c7c3f6c29f13?mp_source=share
+- 📍 Based in Pakistan | 🌍 Working globally  
+- 🛠 Expert in **Flutter, Firebase, Android (Java/Kotlin), Cloud Functions**  
+- 💬 Topics I love: **Clean Architecture, Firebase scaling, Push/FCM, CI/CD pipelines**  
+- 📂 Full portfolio: [Upwork Profile](https://www.upwork.com/freelancers/~018487c7c3f6c29f13?mp_source=share)
 
 ---
 
-### 🧭 What I Do
-- **End-to-End App Development:** Android, iOS & Web with one Flutter codebase  
-- **Scalable Firebase Backends:** RTDB/Firestore, Auth, Storage, Functions, security rules  
-- **Performance & UX:** Smooth animations, cached images, offline patterns, lazy loading  
-- **DevOps & Quality:** GitHub Actions, crash/reporting, analytics, app bundle signing
+### 🧭 My Expertise
+- **Cross-Platform Apps:** One Flutter codebase → Android, iOS, Web  
+- **Robust Firebase Backends:** RTDB, Firestore, Functions, Storage, Auth, Security Rules  
+- **Performance & UX:** Optimized builds, offline patterns, buttery animations  
+- **DevOps:** GitHub Actions, CI/CD, App Store/Play Store deployment, analytics, crash reporting  
 
 ---
 
@@ -47,32 +47,19 @@ With **clean architecture**, **scalable Firebase backends**, and **pixel-perfect
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,java,kotlin,git,github,postman,vscode,cloudflare" />
 </p>
 
-- **State management:** Provider · GetX · Riverpod  
-- **Backend & storage:** Realtime DB · Firestore · Cloud Functions · Storage  
-- **Other:** REST/JSON · FCM · App theming · Clean Architecture · CI/CD (GHA)
+- **State management:** GetX · Riverpod · Provider  
+- **Backend & Storage:** RTDB · Firestore · Cloud Functions · Storage  
+- **Other:** REST APIs · App theming · Clean Architecture · CI/CD  
 
 ---
 
 ### 🚀 Featured Highlights
-- 🔹 **Multi-branch Food & E-commerce (Flutter + Firebase RTDB)** — dynamic categories/items per branch, roles, admin panel, push notifications, real-time orders
-- 🔹 **Mining/Rewards App** — hour-based mining logic, daily resets, boosts via rewarded ads, referral tree, secure backend checks
-- 🔹 **Job Finder + Employer Portal** — resume upload (Storage), employer dashboards, category search, analytics, moderation tools
-
-> Want a quick walkthrough or sample code? **Email:** devalihassan01@gmail.com
-
----
-
-### 🔥 Featured Projects (Quick View)
-| Project | Stack | Highlights |
-|---|---|---|
-| **SCS Food (Multi-branch Ordering)** | Flutter · Firebase RTDB · Functions | Branch-wise menus, cart/checkout, order tracking, admin CMS |
-| **C Coin Mining Network** | Flutter · RTDB · Storage · FCM | Real-time timers, boosts via ads, referral tree, daily resets |
-| **Job Finder / Employer Portal** | Flutter · Storage · Firestore | Resume upload, role-based dashboards, listings & analytics |
-
-<!-- Replace demo GIFs/links below with your actual repos or media if available -->
-<p align="center">
-  <!-- <img src="https://raw.githubusercontent.com/USER/REPO/main/demo.gif" width="520" /> -->
-</p>
+- 🔹 **Multi-Branch Food & E-Commerce (Flutter + Firebase RTDB)**  
+  → Dynamic branch-wise menus, checkout, real-time orders, role-based admin CMS  
+- 🔹 **Mining/Rewards Platform**  
+  → Secure hourly mining, referral tree, daily resets, boosts with rewarded ads  
+- 🔹 **Job Finder + Employer Portal**  
+  → Resume uploads, dashboards, category search, moderation tools, analytics  
 
 ---
 
@@ -98,13 +85,12 @@ With **clean architecture**, **scalable Firebase backends**, and **pixel-perfect
 
 ---
 
-### 🧩 Code Samples (Mini Snippets)
-
+### 🧩 Code Sample (Mini Snippet)
 <details>
-<summary><b>📦 Clean Architecture (Feature Slice)</b></summary>
+<summary><b>📦 Clean Architecture in Flutter</b></summary>
 
 ```dart
-// Example: Repository -> UseCase -> ViewModel -> UI (MVVM)
+// Example: Repository → UseCase → ViewModel → UI
 class AuthRepository {
   final AuthService api;
   AuthRepository(this.api);
@@ -128,8 +114,14 @@ class LoginViewModel extends ChangeNotifier {
 
   Future<User?> login(String email, String password) async {
     loading = true; error = null; notifyListeners();
-    try { final user = await useCase(email, password); return user; }
-    catch (e) { error = e.toString(); return null; }
-    finally { loading = false; notifyListeners(); }
+    try {
+      final user = await useCase(email, password);
+      return user;
+    } catch (e) {
+      error = e.toString();
+      return null;
+    } finally {
+      loading = false; notifyListeners();
+    }
   }
 }
