@@ -70,7 +70,7 @@ With **Flutter + Firebase** as my core stack, I build apps that are **secure, sc
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=devali3697&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://streak-stats.demolab.com?user=devali3697&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500&v=1" />
 </p>
 
 <p align="center">
