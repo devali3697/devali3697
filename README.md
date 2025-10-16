@@ -1,6 +1,6 @@
-<!-- ====== PROFILE HEADER ====== -->
+<!-- PROFILE HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2800&center=true&vCenter=true&width=740&lines=Hi%2C+I'm+Ali+Hassan;Flutter+%26+Firebase+Specialist;Android+%7C+iOS+%7C+Web+Engineer;Building+Clean%2C+Scalable+%26+Production-Ready+Apps" alt="Ali Hassan | Flutter & Firebase Specialist" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2600&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Ali+Hassan;Flutter+%26+Firebase+Specialist;Android+%7C+iOS+%7C+Web+Engineer;I+build+clean%2C+scalable%2C+production-ready+apps" alt="Ali Hassan | Flutter & Firebase Specialist" />
 </p>
 
 <p align="center">
@@ -23,97 +23,60 @@
 
 ---
 
-### 👨‍💻 About Me
-I turn ideas into **production-grade mobile & web apps** for startups and growing teams.  
-With **Flutter + Firebase** as my core stack, I build apps that are **secure, scalable, and loved by users**.
+## 👨‍💻 About Me
+I turn ideas into **production-grade mobile & web apps** for startups and growing teams. With **Flutter + Firebase** as my core stack, I build apps that are **secure, scalable, and loved by users**.
 
-- 📍 Based in Pakistan | 🌍 Working globally  
+- 📍 Based in Pakistan · 🌍 Working globally  
 - 🛠 Expert in **Flutter, Firebase, Android (Java/Kotlin), Cloud Functions**  
-- 💬 Topics I love: **Clean Architecture, Firebase scaling, Push/FCM, CI/CD pipelines**  
-- 📂 Full portfolio: <a href="https://www.upwork.com/freelancers/~018487c7c3f6c29f13?mp_source=share">Upwork Profile</a>
+- 💬 I love **Clean Architecture, Firebase scaling, Push/FCM, CI/CD**  
+- 📂 Portfolio: <a href="https://www.upwork.com/freelancers/~018487c7c3f6c29f13?mp_source=share">Upwork Profile</a>
+
+> **Currently:** Open to full-time/contract roles and MVP builds.
 
 ---
 
-### 🧭 My Expertise
-- **Cross-Platform Apps:** One Flutter codebase → Android, iOS, Web  
-- **Robust Firebase Backends:** RTDB, Firestore, Functions, Storage, Auth, Security Rules  
-- **Performance & UX:** Optimized builds, offline patterns, buttery animations  
-- **DevOps:** GitHub Actions, CI/CD, App Store/Play Store deployment, analytics, crash reporting  
+## 🧭 Expertise
+- **Cross-Platform:** One Flutter codebase → Android, iOS, Web  
+- **Firebase Backends:** RTDB, Firestore, Functions, Storage, Auth, Security Rules  
+- **Performance & UX:** Offline patterns, smooth animations, A/B testing, analytics  
+- **DevOps:** GitHub Actions, Fastlane, Play Store/App Store delivery, Crashlytics
 
 ---
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,java,kotlin,git,github,postman,vscode,cloudflare" alt="Tech stack icons" />
 </p>
 
-- **State management:** GetX · Riverpod · Provider  
-- **Backend & Storage:** RTDB · Firestore · Cloud Functions · Storage  
-- **Other:** REST APIs · App theming · Clean Architecture · CI/CD  
+**State:** GetX · Riverpod · Provider  
+**Storage:** RTDB · Firestore · Storage  
+**Other:** REST APIs · Theming · Clean Architecture · CI/CD  
 
 ---
 
-### 🚀 Featured Highlights
+## 🚀 Featured Highlights
 - 🔹 **Multi-Branch Food & E-Commerce (Flutter + Firebase RTDB)**  
-  → Dynamic branch-wise menus, checkout, real-time orders, role-based admin CMS  
-- 🔹 **Mining/Rewards Platform**  
-  → Secure hourly mining, referral tree, daily resets, boosts with rewarded ads  
+  Role-based CMS, dynamic branch menus, real-time orders, couponing & checkout
+- 🔹 **Mining / Rewards Platform**  
+  Hourly mining, referral tree, daily resets, boosted rewards with ads, fraud-safe
 - 🔹 **Job Finder + Employer Portal**  
-  → Resume uploads, dashboards, category search, moderation tools, analytics  
+  Resume uploads, dashboards, moderation workflows, insights
+
+> Want a demo? **Email me** or ping me on **LinkedIn**.
 
 ---
 
-### 📊 GitHub Stats
-
-<!--
-Why these params?
-- cache_seconds keeps cards fresh enough without hitting rate limits
-- hide_border + theme for clean look
-- card_width/height to avoid layout jumps
-- Top Langs: hide markup (html, css) noise; Dart weight fixed via .gitattributes
--->
-
-<p align="center">
-  <img height="160" 
-       src="https://github-readme-stats.vercel.app/api?username=devali3697&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=21600&v=3" 
-       alt="GitHub stats" />
-  <img height="160" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=devali3697&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&hide=html,css&card_width=420&cache_seconds=21600&v=3" 
-       alt="Top languages" />
-</p>
-
-<p align="center">
-  <img height="170"
-    src="https://streak-stats.demolab.com?user=devali3697&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500&cache=21600&v=3"
-    alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=devali3697&margin-w=6&no-frame=true&theme=flat&row=1&column=7&cache=21600&v=3" 
-         alt="GitHub Trophies" />
-  </a>
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=devali3697&theme=tokyo-night&hide_border=true&radius=8&area=true&custom_title=Contribution%20Activity&v=3" 
-    alt="Contribution Activity Graph" />
-</p>
-
----
-
-### 🧩 Code Sample (Mini Snippet)
+## 📦 Code Sample – Clean Architecture (Repository → UseCase → ViewModel → UI)
 <details>
-<summary><b>📦 Clean Architecture in Flutter (Repository → UseCase → ViewModel → UI)</b></summary>
+<summary><b>Show Dart snippet</b></summary>
 
 ```dart
 // Example: Repository → UseCase → ViewModel → UI
+// Notes: simple, testable, and UI-agnostic.
 
 class AuthService {
   Future<User> login(String email, String password) async {
-    // call your API / Firebase Auth here
-    // return a User instance
+    // Call your API / Firebase Auth here
     throw UnimplementedError();
   }
 }
@@ -121,7 +84,7 @@ class AuthService {
 class User {
   final String id;
   final String email;
-  User(this.id, this.email);
+  const User(this.id, this.email);
 }
 
 class AuthRepository {
@@ -147,7 +110,9 @@ class LoginViewModel extends ChangeNotifier {
   LoginViewModel(this.useCase);
 
   Future<User?> login(String email, String password) async {
-    loading = true; error = null; notifyListeners();
+    loading = true;
+    error = null;
+    notifyListeners();
     try {
       final user = await useCase(email, password);
       current = user;
@@ -156,7 +121,8 @@ class LoginViewModel extends ChangeNotifier {
       error = e.toString();
       return null;
     } finally {
-      loading = false; notifyListeners();
+      loading = false;
+      notifyListeners();
     }
   }
 }
